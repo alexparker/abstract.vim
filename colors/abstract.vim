@@ -41,14 +41,14 @@ hi Folded ctermfg=33 ctermbg=235 cterm=NONE guifg=#007AFF guibg=#2E2F31 gui=NONE
 hi Function ctermfg=50 ctermbg=NONE cterm=NONE guifg=#45FFC8 guibg=NONE gui=NONE
 hi Identifier ctermfg=87 ctermbg=NONE cterm=NONE guifg=#5CF1FF guibg=NONE gui=italic
 hi IncSearch ctermfg=236 ctermbg=229 cterm=NONE guifg=#2E2F31 guibg=#FEF29E gui=NONE
-hi IndentGuidesOdd ctermbg=237 ctermfg=NONE guifg=NONE guibg=NONE gui=NONE
+hi IndentGuidesOdd ctermbg=236 ctermfg=NONE guifg=NONE guibg=NONE gui=NONE
 hi IndentGuidesEven ctermbg=NONE ctermfg=NONE guifg=NONE guibg=NONE gui=NONE
 hi Keyword ctermfg=205 ctermbg=NONE cterm=NONE guifg=#FF479F guibg=NONE gui=NONE
 hi Label ctermfg=229 ctermbg=NONE cterm=NONE guifg=#FEF29E guibg=NONE gui=NONE
 hi LineNr ctermfg=240 ctermbg=NONE cterm=NONE guifg=#5C5E5F guibg=#2E2F31 gui=NONE
 hi MatchParen ctermfg=205 ctermbg=NONE cterm=underline guifg=#FF479F guibg=NONE gui=underline
 hi NonText ctermfg=231 ctermbg=NONE cterm=NONE guifg=#2E2F31 guibg=#2E2F31 gui=NONE
-hi Normal ctermfg=255 ctermbg=236 guifg=#f8f8f2 guibg=#2E2F31 gui=NONE
+hi Normal ctermfg=255 ctermbg=235 guifg=#f8f8f2 guibg=#2E2F31 gui=NONE
 hi Number ctermfg=62 ctermbg=NONE cterm=NONE guifg=#5A5AE6 guibg=NONE gui=NONE
 hi Operator ctermfg=205 ctermbg=NONE cterm=NONE guifg=#FF479F guibg=NONE gui=NONE
 hi Pmenu ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
