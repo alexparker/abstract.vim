@@ -29,8 +29,8 @@ hi Cursor ctermfg=236 ctermbg=15 cterm=NONE guifg=#2E2F31 guibg=#f8f8f0 gui=NONE
 hi CursorColumn ctermbg=236 cterm=NONE guifg=NONE guibg=#2E2F31 gui=NONE
 hi CursorLine ctermbg=236 cterm=NONE guifg=NONE guibg=#2E2F31 gui=NONE
 hi Define ctermfg=205 ctermbg=NONE cterm=NONE guifg=#FF479F guibg=NONE gui=NONE
-hi DiffAdd ctermfg=231 ctermbg=79 cterm=bold guifg=#f8f8f2 guibg=#00CC95 gui=bold
-hi DiffChange ctermfg=231 ctermbg=221 cterm=NONE guifg=#f8f8f2 guibg=#F4D25D gui=NONE
+hi DiffAdd ctermfg=79 ctermbg=NONE cterm=bold guifg=#f8f8f2 guibg=#00CC95 gui=bold
+hi DiffChange ctermfg=221 ctermbg=NONE cterm=NONE guifg=#f8f8f2 guibg=#F4D25D gui=NONE
 hi DiffDelete ctermfg=196 ctermbg=NONE cterm=NONE guifg=#F30000 guibg=NONE gui=NONE
 hi DiffText ctermfg=231 ctermbg=221 cterm=bold guifg=#f8f8f2 guibg=#F4D25D gui=bold
 hi Directory ctermfg=62 ctermbg=NONE cterm=NONE guifg=#5A5AE6 guibg=NONE gui=NONE
