@@ -97,6 +97,7 @@ hi htmlTagName ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NO
 hi javaScriptBraces ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 hi javaScriptFunction ctermfg=87 ctermbg=NONE cterm=italic guifg=#5CF1FF guibg=NONE
 hi jsFunction ctermfg=87 ctermbg=NONE cterm=italic guifg=#5CF1FF guibg=NONE
+hi jsBrackets ctermfg=205 ctermbg=NONE cterm=NONE
 hi javaScriptRailsFunction ctermfg=87 ctermbg=NONE cterm=NONE guifg=#5CF1FF guibg=NONE gui=NONE
 hi rubyBlockParameter ctermfg=221 ctermbg=NONE cterm=NONE guifg=#FFD75F guibg=NONE gui=italic cterm=italic
 hi rubyClass ctermfg=205 ctermbg=NONE cterm=NONE guifg=#FF479F guibg=NONE gui=NONE
