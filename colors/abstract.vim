@@ -35,7 +35,7 @@ hi DiffAdd ctermfg=79 ctermbg=NONE cterm=bold guifg=#f8f8f2 guibg=#00CC95 gui=bo
 hi DiffChange ctermfg=221 ctermbg=NONE cterm=NONE guifg=#f8f8f2 guibg=#F4D25D gui=NONE
 hi DiffDelete ctermfg=196 ctermbg=NONE cterm=NONE guifg=#F30000 guibg=NONE gui=NONE
 hi DiffText ctermfg=231 ctermbg=221 cterm=bold guifg=#f8f8f2 guibg=#F4D25D gui=bold
-hi Directory ctermfg=62 ctermbg=NONE cterm=NONE guifg=#5A5AE6 guibg=NONE gui=NONE
+hi Directory ctermfg=79 ctermbg=NONE cterm=NONE guifg=#5A5AE6 guibg=NONE gui=NONE
 hi ErrorMsg ctermfg=231 ctermbg=205 cterm=NONE guifg=#f8f8f0 guibg=#FF479F gui=NONE
 hi Float ctermfg=62 ctermbg=NONE cterm=NONE guifg=#5A5AE6 guibg=NONE gui=NONE
 hi FoldColmun ctermfg=246 ctermbg=235 cterm=NONE guifg=#909194 guibg=#2E2F31 gui=NONE
@@ -64,7 +64,7 @@ hi SpellBad ctermbg=NONE ctermfg=NONE cterm=underline
 hi Statement ctermfg=205 ctermbg=NONE cterm=NONE guifg=#FF479F guibg=NONE gui=NONE
 hi StatusLine ctermfg=231 ctermbg=236 cterm=bold guifg=#f8f8f2 guibg=#64666d gui=bold
 hi StatusLineNC ctermfg=231 ctermbg=236 cterm=NONE guifg=#f8f8f2 guibg=#64666d gui=NONE
-hi StorageClass ctermfg=87 ctermbg=NONE cterm=NONE guifg=#5CF1FF guibg=NONE gui=italic cterm=italic
+hi StorageClass ctermfg=87 ctermbg=NONE cterm=NONE guifg=#5CF1FF guibg=NONE gui=italic
 hi String ctermfg=229 ctermbg=NONE cterm=NONE guifg=#FEF29E guibg=NONE gui=NONE
 hi TabLine      guifg=#666666 guibg=#2E2F31 gui=none
 hi TabLineFill  guifg=#333333 guibg=#2E2F31 gui=none
@@ -146,6 +146,7 @@ hi vimHiGuiFgBg ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE
 " Ember (ebl) & stylus pairings
 hi eblClass ctermfg=79
 hi stylusClass ctermfg=79
+hi eblHbsArg ctermfg=79 cterm=italic
 
 hi eblKnownTag ctermfg=229
 hi cssTagName ctermfg=229
