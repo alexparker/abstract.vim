@@ -39,7 +39,7 @@ hi Directory ctermfg=79 ctermbg=NONE cterm=NONE guifg=#5A5AE6 guibg=NONE gui=NON
 hi ErrorMsg ctermfg=231 ctermbg=205 cterm=NONE guifg=#f8f8f0 guibg=#FF479F gui=NONE
 hi Float ctermfg=105 ctermbg=NONE cterm=NONE guifg=#5A5AE6 guibg=NONE gui=NONE
 hi FoldColmun ctermfg=246 ctermbg=235 cterm=NONE guifg=#909194 guibg=#2E2F31 gui=NONE
-hi Folded ctermfg=33 ctermbg=235 cterm=NONE guifg=#007AFF guibg=#2E2F31 gui=NONE
+hi Folded ctermfg=240 ctermbg=235 cterm=NONE guifg=#5c5c5c guibg=#2E2F31 gui=NONE
 hi Function ctermfg=50 ctermbg=NONE cterm=NONE guifg=#45FFC8 guibg=NONE gui=NONE
 hi Identifier ctermfg=87 ctermbg=NONE cterm=NONE guifg=#5CF1FF guibg=NONE gui=italic cterm=italic
 hi IncSearch ctermfg=236 ctermbg=229 cterm=NONE guifg=#2E2F31 guibg=#FEF29E gui=NONE
@@ -134,6 +134,7 @@ hi elixirModuleDeclaration ctermfg=87 ctermbg=NONE cterm=NONE guifg=#5CF1FF guib
 hi elixirAlias ctermfg=87 ctermbg=NONE cterm=NONE guifg=#5CF1FF guibg=NONE gui=italic cterm=italic
 hi elixirInterpolationDelimiter ctermfg=50 ctermbg=NONE cterm=NONE guifg=#45FFC8 guibg=NONE gui=NONE
 hi elixirStringDelimiter ctermfg=229 ctermbg=NONE cterm=NONE guifg=#FEF29E guibg=NONE gui=NONE
+hi elixirPrivateDefine ctermfg=240 ctermbg=none
 "}}}
 
 " Vim Script {{{
