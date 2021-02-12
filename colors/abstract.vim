@@ -138,7 +138,8 @@ hi elixirInterpolationDelimiter ctermfg=50 ctermbg=NONE cterm=NONE guifg=#45FFC8
 hi elixirStringDelimiter ctermfg=229 ctermbg=NONE cterm=NONE guifg=#FEF29E guibg=NONE gui=NONE
 hi elixirPrivateDefine ctermfg=240 ctermbg=none
 "hi elixirDocString ctermfg=105 ctermbg=none
-"hi elixirDocStringDelimiter ctermfg=105 ctermbg=none
+hi elixirDocString ctermfg=240 ctermbg=none
+hi elixirDocStringDelimiter ctermfg=240 ctermbg=none
 "}}}
 
 " Vim Script {{{
